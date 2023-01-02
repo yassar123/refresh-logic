@@ -65,7 +65,7 @@ function GlassBeads() {
     shuffle(greenGroup);
     shuffle(yellowGroup);
     shuffle(blueGroup);
-    shuffle(blueGroup);
+    shuffle(outOfStock);
     let totalBeads = [
       purpleGroup,
       pinkGroup,
